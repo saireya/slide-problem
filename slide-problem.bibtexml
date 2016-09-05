@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="simon"><book>
+	<author>Herbert A. Simon</author>
+	<title>システムの科学</title>
+	<isbn>489362167X</isbn>
+	<year>1999</year>
+	<publisher>パーソナルメディア</publisher>
+</book></entry>
+
+<entry id="textbook"><book>
+	<author>
+		<person>岡本 敏雄</person>
+		<person>山極 隆</person>
+	</author>
+	<title>高校 社会と情報</title>
+	<isbn>4407202262</isbn>
+	<year>2013</year>
+	<publisher>実教出版</publisher>
+	<pages>114-115, 142-145</pages>
+</book></entry>
+
+<entry id="tango"><misc>
+	<author>Tango Desktop Project</author>
+	<title>internet-news-reader.svg, text-html.svg, text-x-generic.svg</title>
+	<url>http://tango.freedesktop.org</url>
+</misc></entry>
+
+<entry id="book"><misc>
+	<author>Inductiveload</author>
+	<title>File:Book icon (closed) - Blue and gold.svg</title>
+	<url>https://commons.wikimedia.org/wiki/File:Book_icon_(closed)_-_Blue_and_gold.svg</url>
+</misc></entry>
+
+<entry id="graduation-hat"><misc>
+	<author>Fred the Oyster</author>
+	<title>File:Graduation hat.svg</title>
+	<url>https://commons.wikimedia.org/wiki/File:Graduation_hat.svg</url>
+</misc></entry>
+</file>

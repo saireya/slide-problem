@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
+<log xmlns:xi="http://www.w3.org/2003/XInclude" title="Project Study" by="" slide="1" embed="1" bib="slide-problem" biball="1">
+<article>
+
+<s h="Project study">
+<frame title="\insertsection">
+	<block title="Features of modern world">
+		<ul>
+			<li><alert>Diversity</alert>:
+				We can find <em>little common ground</em> with others</li>
+			<li><alert>Mutuality</alert>:
+				We <em>depend on each other</em><br/>
+				(There should be relation even between <em>global problems and yours</em>)</li>
+			<li mark="⇨"><alert>Inclusion</alert> and <alert>Citizenship</alert> are needed</li>
+		</ul>
+	</block>
+	<img src="diversity-and-mutuality.svg" scale=".5"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Our strategies">
+		<ul>
+			<li><alert>glocal</alert> = <alert>global</alert> × <alert>local</alert>:
+				Think globally, act locally</li>
+			<li><alert>Multilingual</alert> activity<br/>
+				The difference of language makes different view of the world</li>
+			<!-- (Sapir-Whorf hypothesis) -->
+			<li mark="⇨"><alert>Transforming</alert> globally and locally leads to <alert>Sustainability</alert></li>
+		</ul>
+	</block>
+	<img src="diversity-and-mutuality.svg" scale=".5"/>
+</frame>
+
+<frame title="\insertsection">
+	<img src="project-study.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="FYI: 4 skills of global leader (@西京高校)">
+		<ol>
+			<li>「物事を<alert>問題化</alert>」する能力<br/>
+				⇒ (主に)<em>EP2</em>, EP1</li>
+			<li>真の<alert>情報活用能力</alert><br/>
+				⇒ (主に)情報科, <em>EP2</em>, EP1</li>
+			<li>異文化＝<alert>他者を受け入れ，これに応える</alert>力<br/>
+				⇒ (主に)EP1, <em>EP2</em></li>
+			<li>確かな<alert>知識</alert>，幅広い<alert>教養</alert><br/>
+				⇒ (主に)各教科, <em>EP2</em>, EP1</li>
+		</ol>
+	</block>
+</frame>
+</s>
+
+<s h="Paper">
+<!--<frame title="\insertsection">
+	<block title="Paper" class="alert">
+		
+	</block>
+</frame>-->
+
+<frame title="\insertsection">
+	<img src="paper.svg" scale=".45"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Objectivity" class="alert">
+		<em>Citations</em> enable us to <alert>verify</alert> the paper
+	</block>
+	<img src="citation.svg"/>
+</frame>
+</s>
+
+<!-- TODO: class plan -->
+
+<s h="Problem solving">
+<frame title="\insertsection">
+	<block title="Problem" class="alert">
+		The <alert>gap</alert> between the <em>existing state</em> and a <em>desired state</em>
+	</block>
+	<img src="problem-definition.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Problem Solving" class="alert">
+		<alert>Finding a path</alert> between two states
+	</block>
+	<img src="problem-solving.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+	<img src="flow.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Step 1: Problem Definition">
+		<alert>Clarifying</alert> these two states
+	</block>
+	<img src="problem-solving.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Step 2: Investigation">
+		<alert>Investigating</alert> the existing state by ...
+		<ul>
+			<li><em>Papers</em><br/>
+				(containing strict and trustable descriptions)</li>
+			<li><em>Books</em><br/>
+				(containing integrated and historical descriptions)</li>
+			<li><em>Web sites</em><br/>
+				(containing latest and fragmentary descriptions)</li>
+			<li><em>Questionnaire</em><br/>
+				(containing local and actual information)</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Step 3: Analysis">
+		<alert>Organizing</alert> collected information by ...
+		<ul>
+			<li><em>Analyzing</em></li>
+			<li><em>Comparing</em></li>
+			<li><em>Combining</em></li>
+			<li><em>Modeling</em></li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Step 4: Proposing Solution">
+		We will propose a solution in ...
+		<ul>
+			<li><alert>Paper</alert></li>
+			<li><em>Presentation</em> (inside our seminar on Feb?)</li>
+			<li><em>Presentation</em> (outside our school on Mar)</li>
+		</ul>
+	</block>
+</frame>
+</s>
+</article>
+</log>
