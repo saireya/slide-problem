@@ -117,14 +117,46 @@
 
 <frame title="\insertsection">
 	<block title="Step 3: Analysis">
-		<alert>Organizing</alert> collected information by ...
-		<ul>
-			<li><em>Analyzing</em></li>
-			<li><em>Comparing</em></li>
-			<li><em>Combining</em></li>
+		<alert>Analyzing</alert> collected information (to identify <em>causes</em> of your problem)
+		<ol>
+			<li><em>Comparison</em></li>
+			<li><em>Abstraction</em></li>
 			<li><em>Modeling</em></li>
+		</ol>
+	</block>
+
+	<block title="Terms">
+		<ul>
+			<li><alert>Analysis</alert><br/>
+				detailed examination of the elements or <em>structure</em> of something (OED)</li>
+			<li><alert>Structure</alert><br/>
+				<em>relations</em> between the elements of something complex (OED)</li>
+			<li><alert>Model</alert><br/>
+				the <em>explicit interpretation</em> of <em>ones</em> understanding of a situation, or merely of <em>ones</em> ideas about that situation. It can be expressed in mathematics, symbols or words, but it is essentially a description of <em>entities</em> and the <em>relationships</em> between them.
+				(by Brian Wilson)</li>
 		</ul>
 	</block>
+</frame>
+
+<frame title="\insertsection">
+<multicols>
+	<column width="6cm">
+	<block title="Step 3: Analysis">
+		<alert>Analyzing</alert> collected information
+		<ol>
+			<li><alert>Comparison</alert><br/>
+				Compare multiple examples and find <em>similarities and differences</em> between them</li>
+			<li><alert>Abstraction</alert><br/>
+				Pick up only <em>essential</em> similarities</li>
+			<li><alert>Modeling</alert><br/>
+				Make a <em>model</em> explaining the problem (to share your idea with readers or audiences)</li>
+		</ol>
+	</block>
+	</column>
+	<column width="6cm">
+	<img src="analysis.svg" scale=".75"/>
+	</column>
+</multicols>
 </frame>
 
 <frame title="\insertsection">

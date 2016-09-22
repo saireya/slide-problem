@@ -39,4 +39,24 @@
 	<title>File:Graduation hat.svg</title>
 	<url>https://commons.wikimedia.org/wiki/File:Graduation_hat.svg</url>
 </misc></entry>
+
+<entry id="oed-analysis"><misc>
+	<author>Oxford Dictionaries</author>
+	<title>analysis - definition of analysis in English</title>
+	<url>https://en.oxforddictionaries.com/definition/analysis</url>
+</misc></entry>
+
+<entry id="oed-structure"><misc>
+	<author>Oxford Dictionaries</author>
+	<title>structure - definition of analysis in English</title>
+	<url>https://en.oxforddictionaries.com/definition/structure</url>
+</misc></entry>
+
+<entry id="wilson"><book>
+	<author>Brian Wilson</author>
+	<title>Systems: Concepts, Methodologies, and Applications</title>
+	<isbn>0471927163</isbn>
+	<year>1990</year>
+	<publisher>Wiley</publisher>
+</book></entry>
 </file>
