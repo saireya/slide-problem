@@ -52,27 +52,6 @@
 </frame>
 </s>
 
-<s h="Paper">
-<!--<frame title="\insertsection">
-	<block title="Paper" class="alert">
-		
-	</block>
-</frame>-->
-
-<frame title="\insertsection">
-	<img src="paper.svg" scale=".45"/>
-</frame>
-
-<frame title="\insertsection">
-	<block title="Objectivity" class="alert">
-		<em>Citations</em> enable us to <alert>verify</alert> the paper
-	</block>
-	<img src="citation.svg"/>
-</frame>
-</s>
-
-<!-- TODO: class plan -->
-
 <s h="Problem solving">
 <frame title="\insertsection">
 	<block title="Problem" class="alert">
@@ -160,15 +139,211 @@
 </frame>
 
 <frame title="\insertsection">
-	<block title="Step 4: Proposing Solution">
-		We will propose a solution in ...
+	<block title="Step 4: Proposal">
+		<alert>Proposing</alert> a <em>solution</em> of the problem<br/>
+		(<alert>Solution</alert>: a <em>path</em> from the existing state to a desired state)
+	</block>
+
+	<block title="Assumption">
+		It's <em>difficult</em> for amateurs to propose new <em>straight</em> (= 'vertical') solutions :)<br/>
 		<ul>
-			<li><alert>Paper</alert></li>
-			<li><em>Presentation</em> (inside our seminar on Feb?)</li>
-			<li><em>Presentation</em> (outside our school on Mar)</li>
+			<li mark="⇒">Recommended approach: think <alert>laterally</alert> (↔ <em>vertically</em>)</li>
+		</ul>
+	</block>
+
+	<block title="Idea" class="alert">
+		an <alert>idea</alert> is nothing more nor less than a <em>new combination of old elements</em><br/>
+		(James W. Young『A Technique for Producing Ideas』(1940))
+	</block>
+</frame>
+
+<frame title="\insertsection">
+<multicols>
+	<column width="6cm">
+	<block title="SCAMPER: A framework to propose 'lateral' solutions">
+		<ol>
+			<li>Substitute</li>
+			<li>Combine</li>
+			<li>Adapt</li>
+			<li>Modify</li>
+			<li>Put other purposes</li>
+			<li>Eliminate</li>
+			<li>Reverse / Rearrenge</li>
+		</ol>
+	</block>
+	</column>
+	<column width="6cm">
+	<img src="alpha.jpg" scale=".1"/>
+	</column>
+</multicols>
+</frame>
+
+<frame title="Substitute (置き換える)">
+	<img src="cinemacity.jpg" scale=".5"/>
+</frame>
+
+<frame title="Substitute (置き換える)">
+	<img src="recreate-vermeer.jpg" scale=".5"/>
+</frame>
+
+<frame title="Combine (組み合わせる)">
+	<img src="yukaripen.jpg" scale=".75"/>
+</frame>
+
+<frame title="Combine (組み合わせる)">
+	<img src="personality-babymetal.svg" scale=".5"/>
+</frame>
+
+<frame title="Adapt (適用する)">
+	<img src="notoya.jpg" scale=".25"/>
+</frame>
+
+<frame title="Adapt (適用する)">
+	<img src="dassai.jpg" scale=".25"/>
+</frame>
+
+<frame title="Modify (修正する)">
+	<img src="jellyfish.jpg" scale=".5"/>
+</frame>
+
+<frame title="Modify (修正する)">
+	<img src="muon.jpg" scale=".5"/>
+</frame>
+
+<frame title="Put other purposes (転用する)">
+	<img src="ama.jpg" scale=".4"/>
+</frame>
+
+<frame title="Put other purposes (転用する)">
+	<img src="kamikatsu.jpg"/>
+</frame>
+
+<frame title="Put other purposes (転用する)">
+	<img src="pipe.jpg" scale=".4"/>
+</frame>
+
+<frame title="Eliminate (除去する)">
+	<img src="ktx.jpg" scale=".75"/>
+</frame>
+
+<frame title="Reverse/Rearrenge (逆転する/再構成する)">
+	<img src="ofuse.jpg"/>
+</frame>
+
+<frame title="Reverse/Rearrenge (逆転する/再構成する)">
+	<img src="yanana.jpg" scale=".5"/>
+</frame>
+</s>
+
+<s h="Paper">
+<!--<frame title="\insertsection">
+	<block title="Paper" class="alert">
+		
+	</block>
+</frame>-->
+
+<frame title="\insertsection">
+	<img src="paper.svg" scale=".45"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Objectivity" class="alert">
+		<em>Citations</em> enable us to <alert>verify</alert> the paper
+	</block>
+	<img src="citation.svg"/>
+</frame>
+
+<s h="Title">
+<frame title="\insertsubsection">
+	<block title="Title" class="alert">
+		<alert>Title</alert> should explain <em>what is proposed or discussed</em> in the paper
+		<ul>
+			<li>Title should be <em>simple</em> (necessary and sufficient)</li>
+			<li>Too long title is boring</li>
+			<li>Using <em>subtitle</em> is allowed <alert>only if needed</alert></li>
+		</ul>
+	</block>
+
+	<block title="Examples of Title">
+		<ul>
+			<li mark="×">"Deforestation"</li>
+			<li mark="△">"How to Stop Deforestation?"</li>
+			<li mark="△">"A New Proposal against Deforestation"</li>
+			<li mark="○">"Possibility of Paperless School to Preserve Forest"</li>
 		</ul>
 	</block>
 </frame>
+</s>
+
+<s h="Abstract">
+<frame title="\insertsubsection">
+	<block title="Abstract" class="alert">
+		<alert>Abstract</alert> should explain <em>contributions</em> of the paper:
+		<ul>
+			<li><em>Background</em> (introduction)<br/>
+				(Why is this paper written?)</li>
+			<li><em>Research purpose</em> and <em>your approach</em><br/>
+				(How to achieve your purpose?)</li>
+			<li><em>Result</em> (conclusion)<br/>
+				(What are shown in this paper?)</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsubsection">
+	<block title="An Example of Abstract (in English)">
+		The more deforestation become serious, the more students discuss "how to avoid deforestation" at classes in schools.
+		<em>However</em>, they use many papers from wood like worksheets and post-its so the efficiency of these classes is doubtful.
+		<em>In this paper</em>, we <em>show</em> how to use less paper in schools by using ICT.
+		Not only reducing, but also we <em>propose</em> more efficient uses of ICT.
+		<ul>
+			<li mark="※">Do not use "recently" or "these days" easily!</li>
+			<li mark="※">Utilize typical representations of English!</li>
+		</ul>
+	</block>
+
+	<block title="An Example of Abstract (in Japanese)">
+		森林伐採の深刻化に伴い、学校の授業でも「森林伐採の防止法」を議論することが多くなっている。<em>だが</em>、そうした授業で消費される付箋や模造紙は木材由来であり、それ自体が森林伐採に加担しており不適切である。
+		<em>本論文では</em>、ICTを用いて学校における紙の使用を減らす方法を<em>提案する</em>。
+		単なる節約を示すのみに留まらず、紙ではできないICTの有効な活用法も<em>示す</em>。
+	</block>
+</frame>
+</s>
+
+<s h="Introduction">
+<frame title="\insertsubsection">
+	<block title="Introduction" class="alert">
+		<alert>Introduction</alert> should explain:
+		<ul>
+			<li><em>Background</em><br/>
+				Explain existing state and needs of your research by using a few accessible examples</li>
+			<li><em>Research purpose</em><br/>
+				Clarify desired state</li>
+			<li><em>Approach</em><br/>
+				Specify your proposing method</li>
+			<li><em>Structure</em> of the paper</li>
+		</ul>
+	</block>
+</frame>
+</s>
+
+<s h="Conclusion">
+<frame title="\insertsubsection">
+	<block title="Conclusion" class="alert">
+		<alert>Conclusion</alert> should explain:
+		<ul>
+			<li><em>Conclusion</em><br/>
+				(What did you show in this paper?)</li>
+			<li><em>Prospect</em><br/>
+				(What is the possibilities of more research?)</li>
+			<li><em>To do</em><br/>
+				(What problems are still remained?)</li>
+			<li mark="※">Do not write something new in conclusion!</li>
+			<li mark="※">Be careful not to be long!</li>
+		</ul>
+	</block>
+</frame>
+</s>
 </s>
 </article>
 </log>

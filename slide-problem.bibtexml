@@ -59,4 +59,127 @@
 	<year>1990</year>
 	<publisher>Wiley</publisher>
 </book></entry>
+
+<entry id="scamper"><misc>
+	<author>ITmedia</author>
+	<title>SCAMPER法――「10分以内にアイデア3つ出さなきゃ」をかなえる方法</title>
+	<url>http://www.itmedia.co.jp/bizid/articles/0804/15/news007.html</url>
+</misc></entry>
+
+<entry id="alpha"><book>
+	<author>松岡 圭祐</author>
+	<title>特等添乗員αの難事件I</title>
+	<isbn>4041002028</isbn>
+	<year>2012</year>
+	<publisher>角川書店</publisher>
+</book></entry>
+
+<entry id="cinemacity"><misc>
+	<author>週刊アスキー</author>
+	<title>常識破りの成功 映画館に革命を 立川シネマシティ「極上爆音上映」の野心</title>
+	<url>http://weekly.ascii.jp/elem/000/000/355/355161/</url>
+</misc></entry>
+
+<entry id="cinra"><misc>
+	<author>CINRA.NET</author>
+	<title>絵を見るってどういうこと？ 本物じゃないフェルメールから考える</title>
+	<url>http://www.cinra.net/column/vermeerhikari_report</url>
+</misc></entry>
+
+<entry id="yukari"><misc>
+	<author>Sankei Biz</author>
+	<title>ふりかけ「ゆかりペン」が大ヒット 夜の街の女性に大ウケ、反対押し切り商品化</title>
+	<url>http://www.sankeibiz.jp/business/news/161103/bsc1611031608003-n1.htm</url>
+</misc></entry>
+
+<entry id="babymetal"><misc>
+	<author>東洋経済オンライン</author>
+	<title>「BABYMETAL快進撃!」の絶妙な仕掛け</title>
+	<url>http://toyokeizai.net/articles/-/57210</url>
+</misc></entry>
+
+<entry id="babymetal-kami"><misc>
+	<author>BABYMETAL BLOOD</author>
+	<title>“神バンド”BABYMETALバックのメンバー詳細プロフィール!素顔や音源!誰</title>
+	<url>http://babymetal.me/132.html</url>
+</misc></entry>
+
+<entry id="sakuragakuin"><misc>
+	<author>Kawaii girl Japan</author>
+	<title>【さくら学院】現12人でのラストシングル「My Graduation Toss」を2/27に発売。卒業する生徒会長、すず香の一番の思い出は?</title>
+	<url>http://www.kawaii-girl.jp/feature/35239</url>
+</misc></entry>
+
+<entry id="notoya"><misc>
+	<author>JBpress</author>
+	<title>逆風を撥ね飛ばす創業700年の老舗旅館、繁盛のカギは“改革魂”</title>
+	<url>http://jbpress.ismedia.jp/articles/38240</url>
+</misc></entry>
+
+<entry id="dassai"><misc>
+	<author>日本経済新聞</author>
+	<title>最高の酒に杜氏はいらない 「獺祭」支えるITの技 匠を捨て、匠の技を生かす</title>
+	<url>http://www.nikkei.com/article/DGXMZO83592100U5A220C1000000/</url>
+</misc></entry>
+
+<entry id="dassai2"><misc>
+	<author>NIKKEI STYLE</author>
+	<title>「獺祭」新工場、タンク300本のローテク酒造り 内部を初公開</title>
+	<url>http://style.nikkei.com/article/DGXMZO86765140U5A510C1000000</url>
+</misc></entry>
+
+<entry id="jellyfish"><misc>
+	<author>JBpress</author>
+	<title>全力で「バカ」をやれば道が開ける、世界一のクラゲ水族館に学ぶ大逆転の秘策</title>
+	<url>http://jbpress.ismedia.jp/articles/37089</url>
+</misc></entry>
+
+<entry id="muon"><misc>
+	<author>産経新聞</author>
+	<title>イヤホン耳に無音で盆踊り…「不気味」でも「踊りに没頭できる」</title>
+	<url>http://www.sankei.com/premium/news/150816/prm1508160027-n1.html</url>
+</misc></entry>
+
+<entry id="ama"><misc>
+	<author>東洋経済オンライン</author>
+	<title>日本最先端の｢離島｣に進化！海士町の秘密 教育で一歩先行く島はいかにして生まれたか</title>
+	<url>http://toyokeizai.net/articles/-/94864</url>
+</misc></entry>
+
+<entry id="kamikatsu"><misc>
+	<author>毎日新聞</author>
+	<title>葉っぱビジネス: 来たれ移住者 徳島・上勝町が育成支援</title>
+	<url>http://mainichi.jp/articles/20160909/k00/00m/040/174000c</url>
+</misc></entry>
+
+<entry id="pipe"><misc>
+	<author>日経コンストラクション</author>
+	<title>新駅舎はコルゲートパイプ、無人駅の救世主なるか</title>
+	<url>http://kenplatz.nikkeibp.co.jp/atcl/cntnews/15/102000564</url>
+</misc></entry>
+
+<entry id="ktx"><misc>
+	<author>ダイヤモンド・オンライン</author>
+	<title>改札を機械化する日本、改札をなくす韓国――情報化の本質とは何か</title>
+	<url>http://diamond.jp/articles/-/19218</url>
+</misc></entry>
+
+<entry id="ofuse"><misc>
+	<author>JBpress</author>
+	<title>何の変哲もない町から年間120万人が訪れる町へ 長野県・小布施町</title>
+	<url>http://jbpress.ismedia.jp/articles/37271</url>
+</misc></entry>
+
+<entry id="yanana"><misc>
+	<author>日本経済新聞</author>
+	<title>人で人呼ぶ街づくり・段ボール娘「やなな」の願い</title>
+	<url>http://www.nikkei.co.jp/category/offtime/tabeb/article.aspx?id=MMGEzq000029082012</url>
+</misc></entry>
+
+<entry id="yanana2"><misc>
+	<author>ITmedia</author>
+	<title>岐阜の商店街から花の都へ 過激なゆるキャラ「やなな」が世界に飛び出した理由</title>
+	<url>http://www.itmedia.co.jp/news/articles/1208/10/news015.html</url>
+</misc></entry>
+
 </file>
