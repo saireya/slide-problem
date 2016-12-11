@@ -327,6 +327,19 @@
 </frame>
 </s>
 
+<s h="Body">
+<frame title="\insertsubsection">
+	<block title="Body" class="alert">
+		<alert>Body</alert> is main part of the paper
+		<ul>
+			<li><em>Structure</em> of the chapter</li>
+			<li><em>Previous works</em> / <em>Related researches</em><br/>
+				Your survey becomes evidence of your proposal</li>
+		</ul>
+	</block>
+</frame>
+</s>
+
 <s h="Conclusion">
 <frame title="\insertsubsection">
 	<block title="Conclusion" class="alert">
@@ -341,6 +354,43 @@
 			<li mark="※">Do not write something new in conclusion!</li>
 			<li mark="※">Be careful not to be long!</li>
 		</ul>
+	</block>
+</frame>
+</s>
+
+<s h="References">
+<frame title="\insertsubsection">
+	<block title="References" class="alert">
+		The section "<alert>References</alert>" is a list of your evidences
+		<ul>
+			<li><em>Book</em>: author, title, publisher, published year, <em>cited pages</em><br/>
+				(p.10: single page, pp.10-14: multiple pages (pp = pages))</li>
+			<li><em>Paper</em>: author, title, journal, published year</li>
+			<li><em>Website</em>: author, title, URL (<alert>not only its domain</alert>), <em>browsed date</em><br/>
+				(URLが多数ある場合、参考文献リストの先頭に「URLは2017/x/xx時点のものである」と明記しても可)</li>
+			<li mark="※">There are many citation styles sectorally</li>
+			<li mark="※">You must show <alert>all referred bibliographies</alert></li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsubsection">
+	<block title="Examples of citation">
+		<ul>
+			<li mark="×">京都工芸繊維大学教授のCassimは『「インクルーシブデザイン」という発想』で、デザインと障害の関係について「……」と述べている<em>[1]</em>。</li>
+			<li mark="×">Cassimはデザインと障害の関係について「……」と述べている。</li>
+			<li mark="○">Cassim <em>[1]</em>はデザインと障害の関係について「……」と述べている。</li>
+			<li mark="○">Cassimはデザインと障害の関係について「……」<em>[1]</em>と述べている。</li>
+			<li mark="○">Cassimはデザインと障害の関係について「……」と述べている<em>[1]</em>。</li>
+		</ul>
+	</block>
+
+	<block title="Examples of Reference">
+		<ol>
+			<li>J. Cassim, 『「インクルーシブデザイン」という発想』, フィルムアート社, 2014, pp.10-14</li>
+			<li>N. Luhmann, What Is Communication?, Communication Theory, 1992</li>
+			<li>OECD, PISA 2015 Results in Focus, http://www.oecd.org/pisa/ pisa-2015-results-in-focus.pdf (閲覧日: 2016/12/11)</li>
+		</ol>
 	</block>
 </frame>
 </s>
