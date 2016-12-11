@@ -278,7 +278,7 @@
 <s h="Abstract">
 <frame title="\insertsubsection">
 	<block title="Abstract" class="alert">
-		<alert>Abstract</alert> should explain <em>contributions</em> of the paper:
+		The section "<alert>Abstract</alert>" should explain <em>contributions</em> of the paper:
 		<ul>
 			<li><em>Background</em> (introduction)<br/>
 				(Why is this paper written?)</li>
@@ -313,7 +313,7 @@
 <s h="Introduction">
 <frame title="\insertsubsection">
 	<block title="Introduction" class="alert">
-		<alert>Introduction</alert> should explain:
+		The section "<alert>Introduction</alert>" should explain:
 		<ul>
 			<li><em>Background</em><br/>
 				Explain existing state and needs of your research by using a few accessible examples</li>
@@ -330,7 +330,7 @@
 <s h="Body">
 <frame title="\insertsubsection">
 	<block title="Body" class="alert">
-		<alert>Body</alert> is main part of the paper
+		<alert>Body</alert> sections are main part of the paper
 		<ul>
 			<li><em>Structure</em> of the chapter</li>
 			<li><em>Previous works</em> / <em>Related researches</em><br/>
@@ -343,7 +343,7 @@
 <s h="Conclusion">
 <frame title="\insertsubsection">
 	<block title="Conclusion" class="alert">
-		<alert>Conclusion</alert> should explain:
+		The section "<alert>Conclusion</alert>" should explain:
 		<ul>
 			<li><em>Conclusion</em><br/>
 				(What did you show in this paper?)</li>
