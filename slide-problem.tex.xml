@@ -259,8 +259,8 @@
 		<alert>Title</alert> should explain <em>what is proposed or discussed</em> in the paper
 		<ul>
 			<li>Title should be <em>simple</em> (necessary and sufficient)</li>
-			<li>Too long title is boring</li>
-			<li>Using <em>subtitle</em> is allowed <alert>only if needed</alert></li>
+			<li>Long title is boring</li>
+			<li>Using <em>subtitles</em> is allowed <alert>only if needed</alert></li>
 		</ul>
 	</block>
 
@@ -292,10 +292,10 @@
 
 <frame title="\insertsubsection">
 	<block title="An Example of Abstract (in English)">
-		The more deforestation become serious, the more students discuss "how to avoid deforestation" at classes in schools.
-		<em>However</em>, they use many papers from wood like worksheets and post-its so the efficiency of these classes is doubtful.
+		The more deforestation becomes serious, the more students discuss "how to avoid deforestation" at classes in schools.
+		<em>However</em>, they use a lot of paper from wood like worksheets and post-its so the efficiency of these classes is doubtful.
 		<em>In this paper</em>, we <em>show</em> how to use less paper in schools by using ICT.
-		Not only reductions, but also we <em>propose</em> more efficient uses of ICT.
+		Not only reduction, but also we <em>propose</em> more efficient uses of ICT.
 		<ul>
 			<li mark="※">Do not use "recently" or "these days" easily!</li>
 			<li mark="※">Utilize typical representations of English!</li>
@@ -333,7 +333,7 @@
 		<alert>Body</alert> sections are main part of the paper
 		<ul>
 			<li><em>Structure</em> of the chapter</li>
-			<li><em>Previous works</em> / <em>Related researches</em><br/>
+			<li><em>Previous works</em> / <em>Related research</em><br/>
 				Your survey becomes evidence of your proposal</li>
 		</ul>
 	</block>
@@ -350,8 +350,8 @@
 			<li><em>Prospect</em><br/>
 				(What is the possibilities of more research?)</li>
 			<li><em>To do</em><br/>
-				(What problems are still remained?)</li>
-			<li mark="※">Do not write something new in conclusion!</li>
+				(What problems still remain?)</li>
+			<li mark="※">Do not write something new in the conclusion!</li>
 			<li mark="※">Be careful not to be long!</li>
 		</ul>
 	</block>
