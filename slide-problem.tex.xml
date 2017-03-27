@@ -233,6 +233,42 @@
 <frame title="Reverse/Rearrenge (逆転する/再構成する)">
 	<img src="yanana.jpg" scale=".5"/>
 </frame>
+
+<frame title="\insertsection">
+	<block title="Proposing steps">
+		<ol>
+			<li>Enumerate <alert>implicit assumptions</alert> of the problem</li>
+			<li>Pick them up and <alert>doubt</alert> it</li>
+			<li>Think <alert>literally</alert><br/>
+				(<em>substitute</em>, <em>combine</em>, <em>adapt</em>, <em>modify</em>, <em>put other purposes</em>, <em>eliminate</em>, <em>reverse</em> or <em>rearrange</em>)</li>
+			<li>Propose <alert>solution</alert> of the problem</li>
+		</ol>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Implicit assumption">
+		<ul>
+			<li><em>must</em> (～でなければならない)</li>
+			<li><em>must not</em> (～してはならない)</li>
+			<li><em>should</em> (～するべきである)</li>
+			<li><em>had better</em> (～したほうが良い)</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Examples of 'implicit assumption'">
+		<ul>
+			<li>「難民は元々いた国で暮らすべきである」</li>
+			<li>「地域はいつまでも存続すべきである」</li>
+			<li>「人間は平等でなければならない」</li>
+			<li>「都会は進んでいて地方は遅れている」</li>
+			<li>「高校生にはお金がない」</li>
+			<li mark="※">Some are true, but others may be not true</li>
+		</ul>
+	</block>
+</frame>
 </s>
 
 <s h="Paper">
